@@ -24,7 +24,7 @@ A responsive landing page for a luxury car detailing service, built with semanti
 ```
 ├── index.html
 │
-├── css/
+├── styles/
 │   │── components/
 │   │── blocks/
 │   │── base/
